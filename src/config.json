@@ -1,0 +1,4 @@
+{
+    "BACKEND": "http://localhost:8081",
+    "APP": "http://localhost:8082"
+}
